@@ -1,0 +1,9 @@
+# Taps.
+tap 'thoughtbot/formulae'
+
+# Packages.
+brew 'rcm'
+brew 'nginx'
+
+# Casks.
+# cask 'name'

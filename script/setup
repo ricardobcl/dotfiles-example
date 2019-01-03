@@ -1,0 +1,4 @@
+#!/bin/bash -ex
+
+# Install brew dependencies.
+brew bundle --file=packages/brew/Brewfile
